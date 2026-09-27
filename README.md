@@ -135,7 +135,7 @@ git init
 git add .
 git commit -m "Initial commit: Excel financial dashboard & models"
 git branch -M main
-git remote add origin https://github.com/<your-username>/excel-financial-dashboard.git
+git remote add origin https://github.com/raniqn96/excel-financial-dashboard.git
 git push -u origin main
 ```
 When asked for a password, use a **Personal Access Token** (GitHub → Settings → Developer settings → Personal access tokens).
